@@ -65,4 +65,4 @@ The platform prioritizes lightweight runtimes, high concurrent throughput, and m
 
 
 Hello Guys i am Shreyas. One day I will marry Shreyasi.
-Hello Guys. I am Shreyasi's husband :-) (I love you Shreyasi)
+Hello Guys. I am Shreyasi's husband :-) (I love you Shreyas)
